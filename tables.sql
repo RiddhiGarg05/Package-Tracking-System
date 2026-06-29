@@ -1,0 +1,1 @@
+-- Use the CREATE TABLE statements from your report.
